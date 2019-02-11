@@ -1,4 +1,4 @@
-# Emotion-Recognition-Using-Facial-Recognition--Machine-Learning
+# Emotion-Recognition-Using-Facial-Expression--Machine-Learning
 
 Project setup:
 Python version: 3.6
@@ -14,7 +14,7 @@ command: pip install sklearn
 5) seaborn
 command: pip install seaborn
 6) pandas
-command: pip install pandas
+command: pip install pandasRecognition
 7) matplotlib
 command: pip install matplotlib
 
